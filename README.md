@@ -13,7 +13,7 @@ It allows users to search for any city and instantly view current weather condit
 - 🖼️ **Weather Icons** – Uses official OpenWeatherMap icons for accurate condition visuals.  
 - ⚡ **Responsive Design** – Looks great on both desktop and mobile.  
 - 🔑 **Secure API Key Handling** – API key stored in `.env.local`.
-
+ 
 ---
 
 ## 🧠 Tech Stack
